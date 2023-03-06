@@ -12,14 +12,14 @@ span {
   font-size: 5.5vh;
   font-weight: bold;
   font-family: Georgia, 'Times New Roman', Times, serif;
-  color: darkgreen;
+  color: rgb(12, 14, 12);
   -webkit-text-stroke: 0.2px white;
 }
 
 .password {
   background-color: white;
   color: rgb(99, 99, 99);
-  border: 3px solid rgba(199, 199, 30, 0.815);
+  border: 3px solid lawngreen;
   /* width: 90%; */
   min-height: 50px;
   height: auto;
@@ -32,7 +32,7 @@ span {
 }
 
 .container {
-  background-color: rgba(0, 119, 255, 0.507);
+  background-color: black;
   width: 500px;
   height: auto;
   position: absolute;
@@ -92,7 +92,7 @@ select {
 }
 
 input[type='submit'] {
-  background: rgb(250, 96, 122);
+  background: rgb(165, 0, 27);
   cursor: pointer;
   border-radius: 8px;
   padding: 15px 20px;
